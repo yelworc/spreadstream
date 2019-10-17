@@ -35,7 +35,7 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "chalk": "^2.3.2",
-    "csv-parse": "^2.0.4",
+    "csv-parse": "^4.6.3",
     "csv-write-stream": "^2.0.0",
     "fs-extra": "^7.0.0",
     "google-auth-library": "^5.0.0",
